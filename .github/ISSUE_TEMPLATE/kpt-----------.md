@@ -2,7 +2,7 @@
 name: KPT 회고 이슈카드 양식
 about: KPT 회고 이슈카드
 title: "[Retrospect] 팀 데브풀 KPT 회고 21.00.00"
-labels: Retrospect
+labels: ''
 assignees: ''
 
 ---
